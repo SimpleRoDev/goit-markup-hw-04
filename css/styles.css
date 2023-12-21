@@ -422,9 +422,11 @@
 
 .fifth-section-list-element {
     width: calc((100% - 120px) / 6);
+    height: 88px;
+    width: 168px;
 }
 
-.fifth-section-list-element-href {
+.fifth-section-lists-element-href {
     width: 100%;
     height: 100%;
     border: 1px solid #8e8f99;
@@ -435,12 +437,12 @@
     color: #8e8f99;
 }
 
-.fifth-section-list-element-href:hover {
+.fifth-section-lists-element-href:hover {
     border-color: #404bbf;
     color: #404bbf;
 }
 
-.fifth-section-list-element-href:focus {
+.fifth-section-lists-element-href:focus {
     border-color: #404bbf;
     color: #404bbf;
 }

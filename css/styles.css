@@ -108,7 +108,7 @@
     letter-spacing: 0.02em;
 }
 
-/* Section1 */
+/* Section one */
 .first-section {
     background-color: #2e2f42;
     padding: 188px 0;
@@ -163,7 +163,7 @@
     cursor: pointer;
 }
 
-/* Section2 */
+/* Section two */
 .second-section {
     padding: 120px 0;
 }
@@ -220,7 +220,7 @@
     letter-spacing: 0.02em;
 }
 
-/* Section3 */
+/* Section three */
 .third-section {
     padding-bottom: 120px;
 }
@@ -243,7 +243,7 @@
     width: calc((100% - 48px) / 3);
 }
 
-/* Section4 */
+/* Section four */
 .fourth-section {
     background-color: #f4f4fd;
     padding: 120px 0;
@@ -398,7 +398,7 @@
     text-transform: uppercase;
 }
 
-/* Section5 */
+/* Section five */
 .fifth-section {
     padding-top: 120px;
     padding-bottom: 120px;
@@ -414,6 +414,7 @@
 }
 
 .fifth-section-list {
+    width: calc((100% - 120px) / 6);
     display: flex;
     gap: 24px;
     height: 88px;

@@ -414,6 +414,7 @@
 }
 
 .fifth-section-list {
+    width: 100%;
     display: flex;
     gap: 24px;
     height: 88px;

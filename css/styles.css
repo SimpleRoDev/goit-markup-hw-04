@@ -400,6 +400,7 @@
 
 /* Section five */
 .fifth-section {
+    width: calc((100% - 120px) / 6);
     padding-top: 120px;
     padding-bottom: 120px;
 }
